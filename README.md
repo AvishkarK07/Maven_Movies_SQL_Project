@@ -1,4 +1,4 @@
-# 🎬 Maven Movies Analysis <img width="0.1" height="0.1" alt="image" src="https://github.com/user-attachments/assets/86a6b3e6-8e10-40e0-819f-54ebc00a118b" />
+# 🎬 Maven Movies Analysis 
 
 ![Project Banner](https://github.com/AvishkarK07/Maven_Movies_SQL_Project/blob/main/Code_Output/New-Cinema-Age-Classifications-in-the-UAE-Cover-01-12-23-2021.jpg)
 
