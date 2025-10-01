@@ -1,4 +1,4 @@
-# Maven Movies Analysis
+# 🎬 Maven Movies Analysis
 ![Project Banner](https://github.com/AvishkarK07/Maven_Movies_SQL_Project/blob/main/Code_Output/New-Cinema-Age-Classifications-in-the-UAE-Cover-01-12-23-2021.jpg)
 
 This project contains **SQL queries** performed on the **Maven Movies** database for exploratory data analysis (EDA).  
