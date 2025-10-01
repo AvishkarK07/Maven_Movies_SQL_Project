@@ -38,7 +38,7 @@ Some key analyses performed in this project:
    ```sql
    USE MAVENMOVIES;
 
-   # Movies Rental Data Queries
+## Movies Rental Data Queries
 
 This repository contains SQL queries and corresponding visualizations for analyzing the Movies Rental dataset.
 
