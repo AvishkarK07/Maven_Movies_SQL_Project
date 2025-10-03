@@ -43,15 +43,6 @@ The database `MAVENMOVIES` includes several tables, such as:
 - MAVENMOVIES Database – Source of movie rental data
 ---
 
-## 🗄 Database Overview
-The database `MAVENMOVIES` includes several tables, such as:
-- **RENTAL** → Contains rental transactions.
-- **CUSTOMER** → Stores customer details.
-- **FILM** → Stores movie-related details (title, rating, rental rate, etc.).
-- **INVENTORY** → Maps films to stores.
-
----
-
 ## 🔍 Queries Included
 Some key analyses performed in this project:
 - List of all rentals and customers.
