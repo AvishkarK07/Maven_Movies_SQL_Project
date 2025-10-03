@@ -6,7 +6,14 @@ This project contains **SQL queries** performed on the **Maven Movies** database
 It is designed to practice SQL concepts such as filtering, grouping, aggregation, and joins.
 
 ---
-
+## 🗄 Database Overview
+The database `MAVENMOVIES` includes several tables, such as:
+- **RENTAL** → Contains rental transactions.
+- **CUSTOMER** → Stores customer details.
+- **FILM** → Stores movie-related details (title, rating, rental rate, etc.).
+- **INVENTORY** → Maps films to stores.
+  
+---
 ## 🎯 Project Goals
 
 ### 🛒 Customer Insights
