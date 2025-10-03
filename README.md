@@ -53,7 +53,7 @@ Customer Firstname, Lastname and Email Id to The Marketing Team.
 ![Cheapest Rental](https://github.com/AvishkarK07/Maven_Movies_SQL_Project/blob/main/Code_Output/Q2.png)
 
 ### 3. Rental Rate Distribution and Movie Count
-![Total Movies per Rental Rate](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/TOTAL_NO_OF_MOVIES.png)
+![Total Movies per Rental Rate](https://github.com/AvishkarK07/Maven_Movies_SQL_Project/blob/main/Code_Output/Q3.png)
 
 ### 4. Most Common Movie Rating
 ![Rating Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/rating_wise_count.png)
