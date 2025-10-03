@@ -100,34 +100,31 @@ Customer Firstname, Lastname and Email Id to The Marketing Team.
 ### 18. Titles Count by Rental Duration
 ![Rental Duration Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/SLICED_BY_RENTAL_RATE.png)
 
-### 19. Ratings, Movie Count, Length, and Rental Duration
-![Ratings and Rental Duration](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/COMPARE_WITH_RENTAL_DURATION.png)
 
-### 20. Film Count by Replacement Cost with Rental Rates
+
+### 19. Film Count by Replacement Cost with Rental Rates
 ![Replacement Cost Analysis](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MIN_MAX_AVG.png)
 
-### 21. Customers with Less Than 15 Rentals
-![Low Rental Customers](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/less_15.png)
 
-### 22. Longest Films Sorted by Length and Rental Rate
+
+### 20. Longest Films Sorted by Length and Rental Rate
 ![Longest Films](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/longestfilms_sort.png)
 
-### 23. Categorization of Movies by Length
-![Movies Categorized by Length](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/SLICED_BY_RENTAL_RATE.png)
 
-### 24. Movie Recommendations by Age Group
+
+### 21. Movie Recommendations by Age Group
 ![Age-Based Recommendations](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FIT_FOR_RECOMMENDATION.png)
 
-### 25. Films Inventory List
+### 22. Films Inventory List
 ![Films in Inventory](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FILMS_IN_INVENTORY.png)
 
-### 26. Actor Movie Count
+### 23. Actor Movie Count
 ![Actor Movie Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/NO_OF_FILMS_BY_ACTOR.png)
 
-### 27. Number of Actors per Film
+### 24. Number of Actors per Film
 ![Actors per Title](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/ACTOR_ASSOCIATED_WITH_TITLE.png)
 
-### 28. List of Staff and Advisors
+### 25. List of Staff and Advisors
 ![Staff and Advisors](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/UNION.png)
 
 ---
